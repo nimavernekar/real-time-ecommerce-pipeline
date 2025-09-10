@@ -1,0 +1,16 @@
+# requirements.txt - Python dependencies for the project
+pyspark==3.5.0
+kafka-python==2.0.2
+confluent-kafka==2.3.0
+pandas==2.0.3
+numpy==1.24.3
+faker==19.6.2
+psycopg2-binary==2.9.7
+sqlalchemy==1.4.48
+boto3==1.28.76
+minio==7.1.17
+delta-spark==2.4.0
+apache-airflow-providers-postgres==5.6.0
+apache-airflow-providers-http==4.5.1
+requests==2.31.0
+python-dotenv==1.0.0
