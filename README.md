@@ -10,7 +10,7 @@ This project demonstrates a **production-grade real-time data pipeline** that pr
 - **Instant transaction processing** and fraud detection capabilities
 - **Scalable architecture** handling high-throughput event streams
 
----
+
 
 ## 🏗️ Architecture Overview
 
